@@ -5433,5 +5433,10 @@ commit;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 SET autocommit=@old_autocommit;
+bash
+ls -la
+bash
+ls -la
+
 
 -- Dump completed on 2020-01-22  9:56:18
